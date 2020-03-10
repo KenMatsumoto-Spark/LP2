@@ -1,0 +1,9 @@
+C:\Users\lucia\Desktop\spark\Fatec\LP2\PVolume\PVolume\bin\Debug\PVolume.exe.config
+C:\Users\lucia\Desktop\spark\Fatec\LP2\PVolume\PVolume\bin\Debug\PVolume.exe
+C:\Users\lucia\Desktop\spark\Fatec\LP2\PVolume\PVolume\bin\Debug\PVolume.pdb
+C:\Users\lucia\Desktop\spark\Fatec\LP2\PVolume\PVolume\obj\Debug\PVolume.csprojAssemblyReference.cache
+C:\Users\lucia\Desktop\spark\Fatec\LP2\PVolume\PVolume\obj\Debug\PVolume.PVolume.resources
+C:\Users\lucia\Desktop\spark\Fatec\LP2\PVolume\PVolume\obj\Debug\PVolume.Properties.Resources.resources
+C:\Users\lucia\Desktop\spark\Fatec\LP2\PVolume\PVolume\obj\Debug\PVolume.csproj.GenerateResource.cache
+C:\Users\lucia\Desktop\spark\Fatec\LP2\PVolume\PVolume\obj\Debug\PVolume.exe
+C:\Users\lucia\Desktop\spark\Fatec\LP2\PVolume\PVolume\obj\Debug\PVolume.pdb
