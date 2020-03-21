@@ -1,0 +1,9 @@
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Reconhecedor de Triangulos\Reconhecedor de Triangulos\obj\Debug\Reconhecedor de Triangulos.csprojAssemblyReference.cache
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Reconhecedor de Triangulos\Reconhecedor de Triangulos\obj\Debug\Reconhecedor_de_Triangulos.ReconhecedordeTriangulos.resources
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Reconhecedor de Triangulos\Reconhecedor de Triangulos\obj\Debug\Reconhecedor_de_Triangulos.Properties.Resources.resources
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Reconhecedor de Triangulos\Reconhecedor de Triangulos\obj\Debug\Reconhecedor de Triangulos.csproj.GenerateResource.cache
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Reconhecedor de Triangulos\Reconhecedor de Triangulos\bin\Debug\Reconhecedor de Triangulos.exe.config
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Reconhecedor de Triangulos\Reconhecedor de Triangulos\bin\Debug\Reconhecedor de Triangulos.exe
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Reconhecedor de Triangulos\Reconhecedor de Triangulos\bin\Debug\Reconhecedor de Triangulos.pdb
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Reconhecedor de Triangulos\Reconhecedor de Triangulos\obj\Debug\Reconhecedor de Triangulos.exe
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Reconhecedor de Triangulos\Reconhecedor de Triangulos\obj\Debug\Reconhecedor de Triangulos.pdb
