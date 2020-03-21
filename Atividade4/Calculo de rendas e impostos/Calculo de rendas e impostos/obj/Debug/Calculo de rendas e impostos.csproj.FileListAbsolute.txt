@@ -1,0 +1,9 @@
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Calculo de rendas e impostos\Calculo de rendas e impostos\bin\Debug\Calculo de rendas e impostos.exe.config
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Calculo de rendas e impostos\Calculo de rendas e impostos\bin\Debug\Calculo de rendas e impostos.exe
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Calculo de rendas e impostos\Calculo de rendas e impostos\bin\Debug\Calculo de rendas e impostos.pdb
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Calculo de rendas e impostos\Calculo de rendas e impostos\obj\Debug\Calculo de rendas e impostos.csprojAssemblyReference.cache
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Calculo de rendas e impostos\Calculo de rendas e impostos\obj\Debug\Calculo_de_rendas_e_impostos.Properties.Resources.resources
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Calculo de rendas e impostos\Calculo de rendas e impostos\obj\Debug\Calculo de rendas e impostos.csproj.GenerateResource.cache
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Calculo de rendas e impostos\Calculo de rendas e impostos\obj\Debug\Calculo de rendas e impostos.exe
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Calculo de rendas e impostos\Calculo de rendas e impostos\obj\Debug\Calculo de rendas e impostos.pdb
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Calculo de rendas e impostos\Calculo de rendas e impostos\obj\Debug\Calculo_de_rendas_e_impostos.Calculadora.resources
