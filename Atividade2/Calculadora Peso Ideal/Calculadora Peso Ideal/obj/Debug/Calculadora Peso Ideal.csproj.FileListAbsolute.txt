@@ -1,0 +1,9 @@
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Calculadora Peso Ideal\Calculadora Peso Ideal\bin\Debug\Calculadora Peso Ideal.exe.config
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Calculadora Peso Ideal\Calculadora Peso Ideal\bin\Debug\Calculadora Peso Ideal.exe
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Calculadora Peso Ideal\Calculadora Peso Ideal\bin\Debug\Calculadora Peso Ideal.pdb
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Calculadora Peso Ideal\Calculadora Peso Ideal\obj\Debug\Calculadora Peso Ideal.csprojAssemblyReference.cache
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Calculadora Peso Ideal\Calculadora Peso Ideal\obj\Debug\Calculadora_Peso_Ideal.Form1.resources
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Calculadora Peso Ideal\Calculadora Peso Ideal\obj\Debug\Calculadora_Peso_Ideal.Properties.Resources.resources
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Calculadora Peso Ideal\Calculadora Peso Ideal\obj\Debug\Calculadora Peso Ideal.csproj.GenerateResource.cache
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Calculadora Peso Ideal\Calculadora Peso Ideal\obj\Debug\Calculadora Peso Ideal.exe
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Calculadora Peso Ideal\Calculadora Peso Ideal\obj\Debug\Calculadora Peso Ideal.pdb
