@@ -1,0 +1,13 @@
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Atividade6\Atividade6\obj\Debug\Atividade6.csprojAssemblyReference.cache
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Atividade6\Atividade6\obj\Debug\Atividade6.FormMain.resources
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Atividade6\Atividade6\obj\Debug\Atividade6.FrmEx1.resources
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Atividade6\Atividade6\obj\Debug\Atividade6.Properties.Resources.resources
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Atividade6\Atividade6\obj\Debug\Atividade6.csproj.GenerateResource.cache
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Atividade6\Atividade6\bin\Debug\Atividade6.exe.config
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Atividade6\Atividade6\bin\Debug\Atividade6.exe
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Atividade6\Atividade6\bin\Debug\Atividade6.pdb
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Atividade6\Atividade6\obj\Debug\Atividade6.exe
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Atividade6\Atividade6\obj\Debug\Atividade6.pdb
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Atividade6\Atividade6\obj\Debug\Atividade6.FrmEx2.resources
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Atividade6\Atividade6\obj\Debug\Atividade6.FrmEx3.resources
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Atividade6\Atividade6\obj\Debug\Atividade6.FrmEx4.resources
