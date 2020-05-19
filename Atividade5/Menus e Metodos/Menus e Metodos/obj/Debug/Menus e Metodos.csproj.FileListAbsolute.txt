@@ -1,0 +1,13 @@
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Menus e Metodos\Menus e Metodos\bin\Debug\Menus e Metodos.exe.config
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Menus e Metodos\Menus e Metodos\bin\Debug\Menus e Metodos.exe
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Menus e Metodos\Menus e Metodos\bin\Debug\Menus e Metodos.pdb
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Menus e Metodos\Menus e Metodos\obj\Debug\Menus e Metodos.csprojAssemblyReference.cache
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Menus e Metodos\Menus e Metodos\obj\Debug\Menus_e_Metodos.FrmPrincipal.resources
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Menus e Metodos\Menus e Metodos\obj\Debug\Menus_e_Metodos.Properties.Resources.resources
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Menus e Metodos\Menus e Metodos\obj\Debug\Menus e Metodos.csproj.GenerateResource.cache
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Menus e Metodos\Menus e Metodos\obj\Debug\Menus e Metodos.exe
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Menus e Metodos\Menus e Metodos\obj\Debug\Menus e Metodos.pdb
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Menus e Metodos\Menus e Metodos\obj\Debug\Menus_e_Metodos.FrmExercicio2.resources
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Menus e Metodos\Menus e Metodos\obj\Debug\Menus_e_Metodos.FrmExercicio3.resources
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Menus e Metodos\Menus e Metodos\obj\Debug\Menus_e_Metodos.FrmExercicio4.resources
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Menus e Metodos\Menus e Metodos\obj\Debug\Menus_e_Metodos.FrmExercicio5.resources
