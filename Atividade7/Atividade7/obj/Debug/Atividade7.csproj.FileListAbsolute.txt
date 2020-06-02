@@ -1,0 +1,10 @@
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Atividade7\Atividade7\bin\Debug\Atividade7.exe.config
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Atividade7\Atividade7\bin\Debug\Atividade7.exe
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Atividade7\Atividade7\bin\Debug\Atividade7.pdb
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Atividade7\Atividade7\obj\Debug\Atividade7.csprojAssemblyReference.cache
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Atividade7\Atividade7\obj\Debug\Atividade7.Form1.resources
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Atividade7\Atividade7\obj\Debug\Atividade7.Properties.Resources.resources
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Atividade7\Atividade7\obj\Debug\Atividade7.csproj.GenerateResource.cache
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Atividade7\Atividade7\obj\Debug\Atividade7.exe
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Atividade7\Atividade7\obj\Debug\Atividade7.pdb
+C:\Users\lucia\Desktop\spark\Fatec\LP2\Atividade7\Atividade7\obj\Debug\Atividade7.FrmExibicaoNomes.resources
