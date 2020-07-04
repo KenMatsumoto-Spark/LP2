@@ -1,0 +1,11 @@
+C:\Users\lucia\Desktop\spark\Fatec\LP2\PAluno\PAluno\bin\Debug\PAluno.exe.config
+C:\Users\lucia\Desktop\spark\Fatec\LP2\PAluno\PAluno\bin\Debug\PAluno.exe
+C:\Users\lucia\Desktop\spark\Fatec\LP2\PAluno\PAluno\bin\Debug\PAluno.pdb
+C:\Users\lucia\Desktop\spark\Fatec\LP2\PAluno\PAluno\obj\Debug\PAluno.csprojAssemblyReference.cache
+C:\Users\lucia\Desktop\spark\Fatec\LP2\PAluno\PAluno\obj\Debug\PAluno.FrmPrincipal.resources
+C:\Users\lucia\Desktop\spark\Fatec\LP2\PAluno\PAluno\obj\Debug\PAluno.Properties.Resources.resources
+C:\Users\lucia\Desktop\spark\Fatec\LP2\PAluno\PAluno\obj\Debug\PAluno.csproj.GenerateResource.cache
+C:\Users\lucia\Desktop\spark\Fatec\LP2\PAluno\PAluno\obj\Debug\PAluno.exe
+C:\Users\lucia\Desktop\spark\Fatec\LP2\PAluno\PAluno\obj\Debug\PAluno.pdb
+C:\Users\lucia\Desktop\spark\Fatec\LP2\PAluno\PAluno\obj\Debug\PAluno.frmAluno.resources
+C:\Users\lucia\Desktop\spark\Fatec\LP2\PAluno\PAluno\obj\Debug\PAluno.frmCidade.resources

@@ -1,0 +1,24 @@
+c:\users\larissa\documents\visual studio 2012\Projects\PALUNO\PALUNO\bin\Debug\PALUNO.exe.config
+c:\users\larissa\documents\visual studio 2012\Projects\PALUNO\PALUNO\bin\Debug\PALUNO.exe
+c:\users\larissa\documents\visual studio 2012\Projects\PALUNO\PALUNO\bin\Debug\PALUNO.pdb
+c:\users\larissa\documents\visual studio 2012\Projects\PALUNO\PALUNO\obj\Debug\PALUNO.FrmPrincipal.resources
+c:\users\larissa\documents\visual studio 2012\Projects\PALUNO\PALUNO\obj\Debug\PALUNO.Properties.Resources.resources
+c:\users\larissa\documents\visual studio 2012\Projects\PALUNO\PALUNO\obj\Debug\PALUNO.csproj.GenerateResource.Cache
+c:\users\larissa\documents\visual studio 2012\Projects\PALUNO\PALUNO\obj\Debug\PALUNO.exe
+c:\users\larissa\documents\visual studio 2012\Projects\PALUNO\PALUNO\obj\Debug\PALUNO.pdb
+C:\Users\Larissa\Documents\Visual Studio 2012\Projects\PALUNO\PALUNO\obj\Debug\PALUNO.FrmAluno.resources
+C:\Users\Larissa\Documents\Visual Studio 2012\Projects\PALUNO\PALUNO\obj\Debug\PALUNO.FrmCidade.resources
+C:\Users\Larissa\Documents\Visual Studio 2012\Projects\PALUNO\PALUNO\obj\Debug\PALUNO.FrmSobre.resources
+C:\Users\Larissa\Documents\Visual Studio 2012\Projects\PALUNO\PALUNO\obj\Debug\PALUNO.csprojResolveAssemblyReference.cache
+C:\Users\lucia\Downloads\PALUNO\PALUNO\PALUNO\bin\Debug\PALUNO.exe.config
+C:\Users\lucia\Downloads\PALUNO\PALUNO\PALUNO\bin\Debug\PALUNO.exe
+C:\Users\lucia\Downloads\PALUNO\PALUNO\PALUNO\bin\Debug\PALUNO.pdb
+C:\Users\lucia\Downloads\PALUNO\PALUNO\PALUNO\obj\Debug\PALUNO.csprojAssemblyReference.cache
+C:\Users\lucia\Downloads\PALUNO\PALUNO\PALUNO\obj\Debug\PALUNO.FrmAluno.resources
+C:\Users\lucia\Downloads\PALUNO\PALUNO\PALUNO\obj\Debug\PALUNO.FrmCidade.resources
+C:\Users\lucia\Downloads\PALUNO\PALUNO\PALUNO\obj\Debug\PALUNO.FrmPrincipal.resources
+C:\Users\lucia\Downloads\PALUNO\PALUNO\PALUNO\obj\Debug\PALUNO.FrmSobre.resources
+C:\Users\lucia\Downloads\PALUNO\PALUNO\PALUNO\obj\Debug\PALUNO.Properties.Resources.resources
+C:\Users\lucia\Downloads\PALUNO\PALUNO\PALUNO\obj\Debug\PALUNO.csproj.GenerateResource.cache
+C:\Users\lucia\Downloads\PALUNO\PALUNO\PALUNO\obj\Debug\PALUNO.exe
+C:\Users\lucia\Downloads\PALUNO\PALUNO\PALUNO\obj\Debug\PALUNO.pdb
